@@ -11,7 +11,11 @@ Objective:
 
  #In Sales Overview report we will find out 
  -How many product quantity were sold out.
- -Sales we generate
- -How much profit do we get 
+ 
+ -Sales we generate.
+ 
+ -How much profit do we get.
+ 
  -In which region we sale maximum products.
+ 
  -In which month we do minimum sales.
