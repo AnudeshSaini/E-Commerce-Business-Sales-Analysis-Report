@@ -9,7 +9,8 @@ Objective:
  6. Total sales and Profit 
  7. Total Quantity sold.
 
- #In Sales Overview report we will find out 
+ *In Sales Overview report we will find out:
+ 
  -How many product quantity were sold out.
  
  -Sales we generate.
