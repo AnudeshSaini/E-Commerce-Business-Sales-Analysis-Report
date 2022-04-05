@@ -8,15 +8,3 @@ Objective:
  5. Total orders by customer segment
  6. Total sales and Profit 
  7. Total Quantity sold.
-
- *In Sales Overview report we will find out:
- 
- -How many product quantity were sold out.
- 
- -Sales we generate.
- 
- -How much profit do we get.
- 
- -In which region we sale maximum products.
- 
- -In which month we do minimum sales.
